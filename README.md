@@ -13,3 +13,6 @@ Cần chuẩn bị:
 - Token Discord user (lấy từ Authorization header khi F12 vào Discord web)
 - Token cần quyền Ban Members (ban) hoặc Kick Members (kick) trong server
 - Proxy khuyến nghị dùng để tránh rate limit (càng nhiều proxy/token càng tốt)
+
+---
+<img width="1721" height="805" alt="image" src="https://github.com/user-attachments/assets/99d54984-0e6e-4925-8817-3e456962c791" />
