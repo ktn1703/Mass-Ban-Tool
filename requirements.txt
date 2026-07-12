@@ -1,0 +1,8 @@
+aiohttp>=3.9.0
+colorama>=0.4.6
+pystyle>=1.2.0
+# Optional: install for faster DNS resolution (recommended)
+# aiodns>=3.0.0
+# Optional: install for HTTP/2 support (recommended for speed)
+# h2>=4.1.0
+# Install all optional deps: pip install aiodns h2
