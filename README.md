@@ -1,3 +1,9 @@
+# Mass Ban Tool (Selfbot)
+> công cụ giúp bạn ban hàng loạt member của server sử dụng chính tài khoản của bạn
+Bán là con đĩ mẹ mày chết đéo có chỗ chôn xác - dùng free đéo star chết nốt
+
+--
+
 Cách dùng:
 1. pip install -r requirements.txt — cài thư viện
 2. Chạy python massban.py
